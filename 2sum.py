@@ -8,4 +8,4 @@ class Solution(object):
             else:
                 d[data] = i
 
-#modify 1
+#modify 2
