@@ -7,3 +7,5 @@ class Solution(object):
                 return [d[m], i]
             else:
                 d[data] = i
+
+#modify 1
